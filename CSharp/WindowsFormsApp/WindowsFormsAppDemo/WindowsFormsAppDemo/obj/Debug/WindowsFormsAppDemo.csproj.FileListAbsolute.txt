@@ -1,0 +1,10 @@
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csprojResolveAssemblyReference.cache
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Properties.Resources.resources
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.GenerateResource.Cache
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.CoreCompileInputs.cache
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe.config
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.pdb
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
+c:\users\bltuser.blt155\source\repos\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb
