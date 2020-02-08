@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccess\obj\Debug\DataAccess.pdb

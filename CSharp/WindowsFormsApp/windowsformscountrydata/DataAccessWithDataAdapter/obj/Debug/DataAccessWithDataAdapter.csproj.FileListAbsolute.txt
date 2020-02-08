@@ -1,0 +1,11 @@
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.Form1.resources
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.Properties.Resources.resources
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.csproj.GenerateResource.Cache
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\bin\Debug\DataAccessWithDataAdapter.exe.config
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\bin\Debug\DataAccessWithDataAdapter.exe
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\bin\Debug\DataAccessWithDataAdapter.pdb
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.exe
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.pdb
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.Form2.resources

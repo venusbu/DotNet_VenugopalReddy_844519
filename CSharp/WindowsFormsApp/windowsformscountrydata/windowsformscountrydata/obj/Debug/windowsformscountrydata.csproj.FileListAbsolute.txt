@@ -1,0 +1,11 @@
+c:\users\bltuser.blt155\source\repos\windowsformscountrydata\windowsformscountrydata\obj\Debug\windowsformscountrydata.csprojResolveAssemblyReference.cache
+c:\users\bltuser.blt155\source\repos\windowsformscountrydata\windowsformscountrydata\obj\Debug\windowsformscountrydata.Form1.resources
+c:\users\bltuser.blt155\source\repos\windowsformscountrydata\windowsformscountrydata\obj\Debug\windowsformscountrydata.Properties.Resources.resources
+c:\users\bltuser.blt155\source\repos\windowsformscountrydata\windowsformscountrydata\obj\Debug\windowsformscountrydata.csproj.GenerateResource.Cache
+c:\users\bltuser.blt155\source\repos\windowsformscountrydata\windowsformscountrydata\obj\Debug\windowsformscountrydata.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\windowsformscountrydata\bin\Debug\windowsformscountrydata.exe.config
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\windowsformscountrydata\bin\Debug\windowsformscountrydata.exe
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\windowsformscountrydata\bin\Debug\windowsformscountrydata.pdb
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\windowsformscountrydata\obj\Debug\windowsformscountrydata.exe
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\windowsformscountrydata\obj\Debug\windowsformscountrydata.pdb
+C:\Users\BLTuser.BLT155\source\repos\windowsformscountrydata\windowsformscountrydata\obj\Debug\windowsformscountrydata.Form2.resources
