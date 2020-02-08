@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<title>javascript dom programming</title>
+</head>
+<body>
+
+first number:<input type="text"  id="text1"></br>
+second number:<input type="text"  id="text2"></br>
+
+<button id="btnshow" onclick="show()">Result</button>
+
+<script type="text/javascript">
+function show()
+{
+var a = parseFloat(document.getElementById("text1").value);
+var b = parseFloat(document.getElementById("text2").value);
+
+
+var result = a + b;
+document.writeln('sum of  ' +a  +'  and ' +b  + '  =  ' + result);
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title>Registration Page</title>
+</head>
+<header>Registration form</header>
+<body>
+
+<form id = "my form" method="post">
+Name:<input type="text" id = "txt1"></br>
+DOB:<input type="text" id = "txtdob" required></br>
+<button id: " btn submit">submit</button>
+</form>
+<script>
+document.getElementById("btnSubmit").onclick =
+function validateForm()
+{
+var x = document.forms["myForm"]["fname"].value;
+if  (x == "") 
+
+{
+alert("Name must be filled out");
+return false;
+} 
+}
+</script>
+</body>
+</html>
