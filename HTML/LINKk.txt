@@ -1,0 +1,14 @@
+<!DOCTYPE.HTML>
+<HTML>
+<head>
+<meta charset="utf-8">
+<title>My first web page</title>
+<body bgcolor="YELLOW">
+<IMG SRC="biryani.JPG" HEIGHT="300" WIDTH="500" />
+<h3>this page contains anchor link tags</h3>
+
+<a href="https://www.timesofindia.com">Times of india</a></br>
+<a href="https://www.msdn.com">MSDN</a></br>
+
+</BODY>
+</HTML>

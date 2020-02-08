@@ -1,0 +1,33 @@
+<!DOCTYPE.HTML>
+<HTML>
+<head>
+<meta charset="utf-8">
+<title>My first web page</title>
+<body bgcolor="YELLOW">
+<IMG SRC="TE.JPG" HEIGHT="300" WIDTH="500" />
+
+<H3>THIS PAGE CONTAINS SOME ORDERED AND UNORDERED 
+Programming languages:
+<u1>
+<li><c</li>
+<li>c++</li>
+<li>c#</li>
+<li>java</li>
+<li>python</li>
+</u1>
+
+<h3>this page contains some ordered and unordered lists</h3>
+<hr>
+<b><i>computing laptop devices:</i></b>
+
+<ol>
+<li.laptop</li>
+<li>notebook</li>
+<li>think pad</li>
+<li>surface</li>
+</ol>
+
+<p><font size="10px" face="times new roman">venu The font tag was used earlier but now it has become obsolete. Instead, we can better define the fonts using cascading style sheet</font></p>
+
+</body>
+</html>
