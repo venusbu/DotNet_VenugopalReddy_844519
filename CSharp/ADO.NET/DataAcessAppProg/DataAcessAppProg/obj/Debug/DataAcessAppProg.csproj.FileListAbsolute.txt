@@ -1,0 +1,11 @@
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\obj\Debug\DataAcessAppProg.csprojResolveAssemblyReference.cache
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\obj\Debug\DataAcessAppProg.Form1.resources
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\obj\Debug\DataAcessAppProg.Properties.Resources.resources
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\obj\Debug\DataAcessAppProg.csproj.GenerateResource.Cache
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\obj\Debug\DataAcessAppProg.csproj.CoreCompileInputs.cache
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\bin\Debug\DataAcessAppProg.exe.config
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\bin\Debug\DataAcessAppProg.exe
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\bin\Debug\DataAcessAppProg.pdb
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\obj\Debug\DataAcessAppProg.exe
+c:\users\bltuser.blt155\source\repos\DataAcessAppProg\DataAcessAppProg\obj\Debug\DataAcessAppProg.pdb
+C:\Users\BLTuser.BLT155\source\repos\DataAcessAppProg\DataAcessAppProg\obj\Debug\DataAcessAppProg.Form2.resources

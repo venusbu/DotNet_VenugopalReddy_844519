@@ -1,0 +1,5 @@
+c:\users\bltuser.blt155\source\repos\SampleWindowsProgramADO.NET\SampleWindowsProgramADO.NET\obj\Debug\SampleWindowsProgramADO.NET.csprojResolveAssemblyReference.cache
+c:\users\bltuser.blt155\source\repos\SampleWindowsProgramADO.NET\SampleWindowsProgramADO.NET\obj\Debug\SampleWindowsProgramADO.NET.Form1.resources
+c:\users\bltuser.blt155\source\repos\SampleWindowsProgramADO.NET\SampleWindowsProgramADO.NET\obj\Debug\SampleWindowsProgramADO.NET.Properties.Resources.resources
+c:\users\bltuser.blt155\source\repos\SampleWindowsProgramADO.NET\SampleWindowsProgramADO.NET\obj\Debug\SampleWindowsProgramADO.NET.csproj.GenerateResource.Cache
+c:\users\bltuser.blt155\source\repos\SampleWindowsProgramADO.NET\SampleWindowsProgramADO.NET\obj\Debug\SampleWindowsProgramADO.NET.csproj.CoreCompileInputs.cache
